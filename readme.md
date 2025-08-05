@@ -1,4 +1,4 @@
-# ViaBill Customer Analytics
+# Buy Now Pay Later Customer Analysis
 
 We have a database containing info on users, transactions, installments and merchants. 
 
